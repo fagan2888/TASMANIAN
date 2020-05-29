@@ -1,0 +1,9 @@
+<map id="SparseGrids/tsgCoreOneDimensional.hpp" name="SparseGrids/tsgCoreOneDimensional.hpp">
+<area shape="rect" id="node2" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="501,155,635,181"/>
+<area shape="rect" id="node22" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="661,80,819,107"/>
+<area shape="rect" id="node24" href="$tsgSequenceOptimizer_8hpp.html" title="Algorithms for computing greedy sequences. " alt="" coords="843,80,1039,107"/>
+<area shape="rect" id="node3" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="707,229,855,256"/>
+<area shape="rect" id="node20" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1661,304,1761,331"/>
+<area shape="rect" id="node21" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1645,379,1777,405"/>
+<area shape="rect" id="node23" href="$tsgAcceleratedDataStructures_8hpp.html" title="Data structures for interacting with CUDA and MAGMA environments. " alt="" coords="659,155,903,181"/>
+</map>
